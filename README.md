@@ -49,9 +49,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**HydraCache**](https://github.com/Ishita-coder27/hydra-cache) | Self-healing distributed cache built from scratch — consistent hashing, SWIM gossip failure detection, quorum consistency & automatic cluster rebalancing | Go, Docker, Distributed Systems |
 | [**VOCA AI**](https://github.com/Ishita-coder27/ai-interviewer) | Agentic mock interview platform with voice NLP, LLM-orchestrated adaptive questions & real-time scoring | React, Node.js, MongoDB, Voice AI |
 | [**Heallio**](https://github.com/Ishita-coder27/halileo) | AI health platform with regex + LLM fallback vital extraction — cuts API token cost by ~60% vs LLM-only | React, FastAPI, PostgreSQL, Groq |
-| [**CodeVanta**](https://github.com/Ishita-coder27/Codevanta) | Real-time collaborative coding platform with shared Monaco editor, WebSocket sync, WebRTC video & DSA bank | React, Node.js, Socket.IO, WebRTC |
+| [**CodeVanta**](https://github.com/Ishita-coder27/Codevanta) | Real-time collaborative coding platform with shared Monaco editor, Yjs CRDT sync, WebRTC video & DSA bank | React, Node.js, Yjs (CRDT), WebRTC |
 | [**Acadence**](https://github.com/Ishita-coder27/acadence2.0) | AI-powered LMS that uses Gemini to dynamically generate courses, quizzes & learning paths from learner goals | React 19, Node.js, Gemini AI |
 | [**Resume Analyzer**](https://github.com/Ishita-coder27/Resume_analyzer) | Parses resumes and scores them against job descriptions | Python |
 | [**Portfolio**](https://github.com/Ishita-coder27/myportfolio) | My personal developer portfolio showcasing projects & skills | JavaScript |
