@@ -16,7 +16,7 @@
 - 💻 **Backend & Frontend** — React, Next.js, FastAPI, Node.js, PostgreSQL, Redis, GraphQL
 - 🏗️ **Systems Thinker** — Distributed systems (Go, Docker), system design, 500+ DSA problems solved
 - 📫 Reach me: **singhish0304@gmail.com** | [Portfolio](https://portfolioo-jade-iota.vercel.app/)
-- ⚡ **Amazon ML Summer School 2025** selectee | **GPA 8.04/10** at JIIT Noida
+- ⚡ **Amazon ML Summer School 2025** selectee | B.Tech CSE at JIIT Noida
 
 ---
 
